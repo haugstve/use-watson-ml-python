@@ -1,0 +1,37 @@
+# Only track data from the start of the DAG, the rest is calculated
+data/output/*
+!data/output/.gitkeep.txt
+
+data/processed/*
+!data/processed/.gitkeep.txt
+
+data/transformed/*
+!data/transformed/.gitkeep.txt
+
+# Buffers #
+###################
+__pycache__/
+
+
+# Compiled source #
+###################
+
+*.vscode
+*.dll
+*.exe
+*.o
+*.so
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
