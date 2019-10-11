@@ -26,3 +26,7 @@ status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["N
 status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["Risk", [0.1773772614899517, 0.8226227385100483]]]}\n'
 status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["No Risk", [0.9479245210222427, 0.05207547897775732]]]}\n'
 status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["No Risk", [0.9801717369523981, 0.019828263047601897]]]}\n'
+status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["No Risk", [0.93910340893084, 0.06089659106915998]]]}\n'
+status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["Risk", [0.42885249590634833, 0.5711475040936517]]]}\n'
+status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["No Risk", [0.7538801647416332, 0.2461198352583668]]]}\n'
+status: 200, content: b'{"fields": ["prediction", "probability"], "values": [["No Risk", [0.623553211157318, 0.376446788842682]]]}\n'
