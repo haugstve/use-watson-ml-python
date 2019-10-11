@@ -8,14 +8,20 @@ data/processed/*
 data/transformed/*
 !data/transformed/.gitkeep.txt
 
+
 # Buffers #
 ###################
 __pycache__/
 
 
+# Logs #
+###################
+*.log
+nohup.out
+
+
 # Compiled source #
 ###################
-
 *.vscode
 *.dll
 *.exe
